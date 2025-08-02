@@ -24,6 +24,7 @@ Each roast will be added as a **markdown or text file** inside the `/roasts` fol
 | openverse | research website | NEXTJS | Website to improve research opportunities at our college | https://research-iiitk.vercel.app |
 | openverse | mess-rater website | NEXTJS | Public voting website to make a mess tier list | https://mess-rating.vercel.app |
 | openverse | OV docs | NEXTJS | Documentation for all Openverse Projects | https://openverse-docs.vercel.app |
+| openverse | Brick-Breaker game | js | Simple Brick Breaker Game | https://nabhaan-a.github.io/Brick-Breaker/ |
 
 
 > ✨ Add your entry by opening a Pull Request or editing this table via GitHub Web.
