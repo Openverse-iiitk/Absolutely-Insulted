@@ -25,7 +25,7 @@ Each roast will be added as a **markdown or text file** inside the `/roasts` fol
 | openverse | mess-rater website | NEXTJS | Public voting website to make a mess tier list | https://mess-rating.vercel.app |
 | openverse | OV docs | NEXTJS | Documentation for all Openverse Projects | https://openverse-docs.vercel.app |
 | openverse | Brick-Breaker game | js | Simple Brick Breaker Game | https://nabhaan-a.github.io/Brick-Breaker/ |
-| SuKMaDhe  | SecureLearnViz | React+Vite | Visualising Concepts for cybersecurity | https://github.com/SuKMaDhe/SecureLearnViz |
+| SuKMaDhe  | SecureLearnViz | React+Vite | Visualising Concepts for cybersecurity |  https://securelearnviz.pages.dev/ |
 | Kushal (Syking) | Python-Rules-GUI | PyQT5 | GUI based YARA and Sigma Rule builder | https://github.com/Kushal-39/Python-Rules-GUI |
 
 
