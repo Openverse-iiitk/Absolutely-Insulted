@@ -28,7 +28,7 @@ Each roast will be added as a **markdown or text file** inside the `/roasts` fol
 | SuKMaDhe  | SecureLearnViz | React+Vite | Visualising Concepts for cybersecurity |  https://securelearnviz.pages.dev/ |
 | Kushal (Syking) | Python-Rules-GUI | PyQT5 | GUI based YARA and Sigma Rule builder | https://github.com/Kushal-39/Python-Rules-GUI |
 | makeki | Silent_Shell | Flask, js | Annoying challenge, flag.txt txt is inside /app | docker pull makeki/silent_shell |
-
+| makeki, syking | PassGen | Flask, js | First version of a PoC for memorable passwords | https://password-gen-bpvu.onrender.com/  https://github.com/make-ki/gen_pass|
 
 > ✨ Add your entry by opening a Pull Request or editing this table via GitHub Web.
 
